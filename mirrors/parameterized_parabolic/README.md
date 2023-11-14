@@ -26,3 +26,4 @@ parabolic mirror in ```parabolic_simulation```
 |     |     |
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/simulation_screen01.png) | ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/simulation_screen02.png) |
+| ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/simulation_screen03.png) | |
