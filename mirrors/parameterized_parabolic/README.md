@@ -17,3 +17,11 @@ mount
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/parabolic_screwmount_model.png) | ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/parabolic_screwmount_config.png) |
 
+## Simulation with screw mount
+
+There is a (currently incomplete - not including the sample holder) simulation
+for the mirror mounted parabolic mirror in ```parabolic_simulation```
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/simulation_screen01.png) | ![](https://raw.githubusercontent.com/tspspi/temparts/master/mirrors/parameterized_parabolic/simulation_screen02.png) |
