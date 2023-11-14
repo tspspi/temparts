@@ -19,8 +19,9 @@ mount
 
 ## Simulation with screw mount
 
-There is a (currently incomplete - not including the sample holder) simulation
-for the mirror mounted parabolic mirror in ```parabolic_simulation```
+There is a (currently incomplete - not including the sample holder) parameterized
+simulation that pulls design parameters from the other models for the screw mounted
+parabolic mirror in ```parabolic_simulation```
 
 |     |     |
 | --- | --- |
